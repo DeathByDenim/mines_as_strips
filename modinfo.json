@@ -1,0 +1,20 @@
+{
+  "author": "DeathByDenim, b8factor",
+  "build": "78071",
+  "category": ["ui"],
+  "context": "client",
+  "date": "2015/03/08",
+  "description": "Change the mine area build command from a disk to a line of two mines wide.",
+  "description_de": "Änder das Baukommando für Minen von Scheiben zu Streifen.",
+  "description_fr": "Construire les mines dans un bande à la place d'un disque.",
+  "description_nl": "Bouw mijnen in een strook van twee breed in plaats van in een schijf.",
+  "display_name": "Mines as strips",
+  "display_name_de": "Minen in Streifen",
+  "display_name_fr": "Mines comme bandes",
+  "display_name_nl": "Mijnen als strook",
+  "forum": "",
+  "identifier": "com.DeathByDenim.pa.mines_as_strips",
+  "priority": 100,
+  "signature": "not yet implemented",
+  "version": "1.0"
+}
