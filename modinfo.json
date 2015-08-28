@@ -1,9 +1,9 @@
 {
   "author": "DeathByDenim, b8factor",
-  "build": "78071",
+  "build": "86765",
   "category": ["ui"],
   "context": "client",
-  "date": "2015/03/08",
+  "date": "2015/08/28",
   "description": "Change the mine area build command from a disk to a line of two mines wide.",
   "description_de": "Änder das Baukommando für Minen von Scheiben zu Streifen.",
   "description_fr": "Construire les mines dans un bande à la place d'un disque.",
